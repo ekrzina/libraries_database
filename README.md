@@ -8,3 +8,5 @@ Data for tables members and employees were made with the help of Mockaroo on htt
 Data for tables loans and ratings was geerated via Python script also available on the repository. Data was inserted into the libraries database and exported as an SQL file.
 
 The libary files are then modified into star shape for data warehouse and OLAP analysis purposes. Data warehouse consists of five tables - bookreturn, books, dates, employees and members. Those files can be found in the dw file.
+
+Documentation of all processes is provided in a .pdf document. For now, it is solely in Croatian.
